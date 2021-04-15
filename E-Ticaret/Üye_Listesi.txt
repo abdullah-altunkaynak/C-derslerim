@@ -1,0 +1,8 @@
+id admin
+password admin123
+special admins
+money 500
+id abdullah
+password apo1907
+special hera
+money 452

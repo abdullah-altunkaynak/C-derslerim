@@ -1,0 +1,42 @@
+*********ComSpec*******C:\WINDOWS\system32\cmd.exe**********
+
+-COMSPEC veya ComSpec biridir ortam değişkenleri kullanılan DOS , OS / 2 ve , Windows , hangi normalde noktaları komut satırı yorumlayıcısı varsayılan gereğidir, COMMAND.COM DOS, Windows 95, 98, ve ME veya CMD.EXE'ye içinde OS / 2 ve
+Windows NT . Değişken adı DOS ve OS / 2 altında büyük harflerle yazılır. Ayrıca küçük ortam değişkeni adları destekler Windows altında değişken adıdır comspec DOS emülatörü içine NTVDM ve herhangi DOS programları için ve ComSpec
+CMD.EXE'ye altında.
+-Değişkenin içeriği , komut istemine SET COMSPEC veya ECHO% COMSPEC% yazarak görüntülenebilir .
+-Ortam değişkeni varsayılan olarak komut satırı yorumlayıcısının tam yolunu gösterir. Ayrıca farklı bir şirket tarafından yapılabilir veya farklı bir sürüm olabilir.
+-Bu ortam değişkeninin başka bir kullanımı, disketten önyükleme yapması gereken sabit diski olmayan bir bilgisayarda, bir ram disk yapılandırmaktır. COMMAND.COM dosyası, önyükleme sırasında ram diskine kopyalanır ve COMSPEC ortam
+değişkeni, ram diskindeki yeni konuma ayarlanır. Bu şekilde önyükleme diski, büyük bir uygulama durdurulduktan sonra yeniden takılmasına gerek kalmadan çıkarılabilir. Komut satırı yorumlayıcısı, önyükleme diski yerine ram diskinden
+yeniden yüklenir.
+
+
+**********DriverData*********C:\Windows\System32\Drivers\DriverData******
+-DriverData , sürücüyle ilgili verileri içeren dizine işaret eder. Değeri genellikle C: \ Windows \ System32 \ Drivers \ DriverDat a şeklindedir. 
+
+
+**********NUMBER_OF_PROCESSORS******8******
+-Bu değişken, bilgisayardaki işlemci sayısını içerir. Sistemimde bu değer 8 ; sisteminizde, muhtemelen 2 , 4 veya 8'den biridir . Bu, bilgisayarınızdaki CPU'daki fiziksel çekirdeklerin sayısıdır. Bu, mantıksal çekirdek sayısından farklı
+olabilir. Mantıksal bir çekirdek, kendi iş parçacığını diğer mantıksal çekirdeklerle paralel olarak gerçekleştirebilen bir işlem birimidir. Her fiziksel çekirdek için birden fazla mantıksal çekirdek olabilir. Bununla birlikte, her
+mantıksal çekirdek, kaynakları fiziksel bir çekirdek üzerindeki diğer mantıksal çekirdeklerle paylaşır. Intel i3, i5 ve i7 işlemciler fiziksel çekirdek başına iki mantıksal çekirdeğe sahiptir. Yani, bilgisayarda 8 fiziksel çekirdeğim
+var, ama 16 mantıksal çekirdeğim var.
+
+
+**********OS*********Windows_NT********
+-Bu değişken, çalışan işletim sistemini belirtir. Geçerli Windows sistemlerinde, bu değişken her zaman Windows_NT olarak ayarlanır.
+
+
+*********PATH*********C:\Program Files (x86)\Common Files\Oracle\Java\javapath********
+-Yol , sistemin yürütülebilir bir dosyayı bulmak için araması gereken dizinlerin listesini içerir. Dizinler, yürütülebilir dosya bulunana veya son dizin aranana kadar (soldan sağa) sırayla aranır.
+
+
+*********PATHEXT*******.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC**********
+-PATHEXT , sistemin yürütülebilir dosyalar olarak kabul ettiği dosya uzantılarının listesini içerir.
+
+
+********TEMP AND TMP*********C:\WINDOWS\TEMP*******
+-TEMP ve TMP ortam değişkenleri programları tarafından kullanılan geçici dizin yolunu içerir. Bazı programlar bunlardan birini kullanırken diğer programlar diğerini kullandığından iki farklı değişken vardır. Her ikisi de aynı değeri
+içermelidir. Sistemimde, her iki değişken de C: \ Windows \ TEMP değerini içerir . Ayrıca kullanıcı TEMP ve TMP değişkenleri olduğunu unutmayın. Sistem değişkenlerine sistem ve muhtemelen sistem uygulamaları tarafından referans verilir.
+Kullanıcı değişkenlerine kullanıcı programları tarafından referans verilir.
+
+
+

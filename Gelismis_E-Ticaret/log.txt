@@ -1,0 +1,155 @@
+[26.4.2020 10:18:1] - name: tart, password: sadffas ile yanlýþ kullanýcý giriþ denemesi yapýldý.
+[26.4.2020 10:18:5] - name: sadfas, password: sadf ile yanlýþ kullanýcý giriþ denemesi yapýldý.
+[26.4.2020 10:18:6] - üye giriþi yapýlmadý.
+[26.4.2020 10:18:12] - hknclb Admin kullanýcý giriþ yaptý.
+[26.4.2020 10:18:25] - emre47 yeni admin eklendi.
+[26.4.2020 10:18:54] - monitor ürünü stoða eklendi.
+[26.4.2020 10:19:5] - monitor ürününe 2 kilo - adet eklendi.
+[26.4.2020 10:19:7] - hknclb Admin kullanýcý çýkýþ yaptý.
+[26.4.2020 10:19:14] - name: emre47, password: 4747 ile yanlýþ kullanýcý giriþ denemesi yapýldý.
+[26.4.2020 10:19:22] - emre47 Admin kullanýcý giriþ yaptý.
+[26.4.2020 10:19:34] - apo42 yeni admin eklendi.
+[26.4.2020 10:19:49] - klavye ürünü stoða eklendi.
+[26.4.2020 10:20:0] - klavye ürününe -9 kilo - adet eklendi.
+[26.4.2020 10:20:15] - klavye ürününe -15 kilo - adet eklendi.
+[26.4.2020 10:20:16] - emre47 Admin kullanýcý çýkýþ yaptý.
+[26.4.2020 10:34:14] - hknclb Admin kullanýcý giriþ yaptý.
+[26.4.2020 10:34:19] - hknclb admin zaten var olduðundan dolayý ekleme baþarýsýz oldu.
+[26.4.2020 10:34:30] - emre47 admin zaten var olduðundan dolayý ekleme baþarýsýz oldu.
+[26.4.2020 10:34:32] - hknclb Admin kullanýcý çýkýþ yaptý.
+[26.4.2020 10:35:38] - hknclb Admin kullanýcý giriþ yaptý.
+[26.4.2020 10:35:53] - klavye ürününe 100 kilo - adet eklendi.
+[26.4.2020 10:35:58] - neden ürünü bulunamadý.
+[26.4.2020 10:36:7] - hknclb Admin kullanýcý çýkýþ yaptý.
+[26.4.2020 10:42:24] - emre47 Admin kullanýcý giriþ yaptý.
+[26.4.2020 10:43:35] - emre47 Admin kullanýcý giriþ yaptý.
+[26.4.2020 10:43:47] - klavye ürünü stoða eklendi.
+[26.4.2020 10:43:50] - emre47 Admin kullanýcý çýkýþ yaptý.
+[26.4.2020 10:45:2] - name: emre47, password: 47478 ile yanlýþ kullanýcý giriþ denemesi yapýldý.
+[26.4.2020 10:45:6] - emre47 Admin kullanýcý giriþ yaptý.
+[26.4.2020 10:45:10] - elma ürünü zaten var olduðundan dolayý ekleme baþarýsýz oldu.
+[26.4.2020 10:45:22] - portakal ürünü stoða eklendi.
+[26.4.2020 10:45:24] - emre47 Admin kullanýcý çýkýþ yaptý.
+[26.4.2020 12:13:6] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 12:13:35] - norm üye bakiyesi 500,000000 yetersiz olduðundan monitor ürünü 2499,999900 * 1 satýn alýmý baþarýsýz.
+[26.4.2020 12:13:45] - portakal ürünü 1 stok yetersiz olduðundan 45,000000 * 5 satýn alýmý baþarýsýz.
+[26.4.2020 12:16:6] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 12:16:24] - norm üye bakiyesi 500,000000 yetersiz olduðundan klavye ürünü 199,999999 * 4 satýn alýmý baþarýsýz.
+[26.4.2020 12:16:41] - portakal ürünü 1 adet 45,000000 TL'ye satýn alýndý.
+[26.4.2020 12:16:47] - norm Normal kullanýcý çýkýþ yaptý.
+[26.4.2020 12:23:8] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 12:23:16] - 0 ürünü bulunamadý.
+[26.4.2020 12:23:32] - norm Normal kullanýcý çýkýþ yaptý.
+[26.4.2020 12:24:29] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 12:24:42] - norm üye bakiyesi 500,000000 yetersiz olduðundan monitor ürünü 2499,999900 * 1 satýn alýmý baþarýsýz.
+[26.4.2020 12:27:18] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 12:27:39] - norm üye bakiyesi 500,000000 yetersiz olduðundan monitor ürünü 2499,999999 * 1 satýn alýmý baþarýsýz.
+[26.4.2020 12:27:53] - portakal ürünü 20 adet 73,800000 TL'ye satýn alýndý.
+[26.4.2020 12:28:15] - norm üye bakiyesi 426,200000 yetersiz olduðundan klavye ürünü 199,999999 * 3 satýn alýmý baþarýsýz.
+[26.4.2020 12:28:25] - klavye ürünü 2 adet 399,999998 TL'ye satýn alýndý.
+[26.4.2020 12:28:28] - norm Normal kullanýcý çýkýþ yaptý.
+[26.4.2020 12:30:33] - hknclb Admin kullanýcý giriþ yaptý.
+[26.4.2020 12:30:50] - mouse ürünü stoða eklendi.
+[26.4.2020 12:31:0] - portakal ürününe 10 kilo - adet eklendi.
+[26.4.2020 12:31:2] - hknclb Admin kullanýcý çýkýþ yaptý.
+[26.4.2020 12:31:10] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 12:31:22] - mouse ürünü 1 adet 279,890000 TL'ye satýn alýndý.
+[26.4.2020 12:31:31] - norm Normal kullanýcý çýkýþ yaptý.
+[26.4.2020 12:45:33] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 12:45:48] - klavye ürünü 1 adet 199,999999 TL'ye satýn alýndý.
+[26.4.2020 12:46:3] - mouse ürünü 1 adet 279,890000 TL'ye satýn alýndý.
+[26.4.2020 12:46:10] - norm üye bakiyesi 20,110001 yetersiz olduðundan elma ürünü 2,500000 * 10 satýn alýmý baþarýsýz.
+[26.4.2020 12:46:13] - norm Normal kullanýcý çýkýþ yaptý.
+[26.4.2020 12:49:35] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 12:49:42] - klavye ürünü 1 adet 199,999999 TL'ye satýn alýndý.
+[26.4.2020 12:49:47] - mouse ürünü 1 adet 279,890000 TL'ye satýn alýndý.
+[26.4.2020 12:50:1] - portakal ürünü 2 adet 7,380000 TL'ye satýn alýndý.
+[26.4.2020 12:50:7] - norm üye bakiyesi 12,730001 yetersiz olduðundan klavye ürünü 199,999999 * 1 satýn alýmý baþarýsýz.
+[26.4.2020 12:50:9] - norm Normal kullanýcý çýkýþ yaptý.
+[26.4.2020 13:13:11] - name: hknclb, password: 123456 ile yanlýþ kullanýcý giriþ denemesi yapýldý.
+[26.4.2020 13:13:12] - üye giriþi yapýlmadý.
+[26.4.2020 15:30:10] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 15:30:45] - Kart numarasý doðru olmadýðý için bakiye yüklenmedi.
+[26.4.2020 15:30:55] - norm Normal kullanýcý çýkýþ yaptý.
+[26.4.2020 15:33:26] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 15:33:49] - Kart numarasý doðru olmadýðý için bakiye yüklenmedi.
+[26.4.2020 15:34:38] - norm Normal kullanýcý çýkýþ yaptý.
+[26.4.2020 15:37:2] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 15:37:17] - Kart numarasý doðru olmadýðý için bakiye yüklenmedi.
+[26.4.2020 15:38:3] - norm Normal kullanýcý çýkýþ yaptý.
+[26.4.2020 15:38:44] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 15:38:50] - 4812 6628 3326 4782 - Kart numarasý doðru girildi.
+[26.4.2020 15:38:51] - norm kullanýcýsýna 587,269999 bakiye yüklendi.
+[26.4.2020 15:40:3] - norm Normal kullanýcý çýkýþ yaptý.
+[26.4.2020 15:43:14] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 15:43:34] - 4812 7648 3326 4722 - Kart numarasý doðru girildi.
+[26.4.2020 15:43:34] - norm kullanýcýsýna 100,000000 bakiye yüklendi.
+[26.4.2020 15:43:36] - norm Normal kullanýcý çýkýþ yaptý.
+[26.4.2020 15:46:5] - norm Normal kullanýcý giriþ yaptý.
+[26.4.2020 15:46:29] - 4812 7648 5586 4822 - Kart numarasý doðru girildi.
+[26.4.2020 15:46:29] - norm kullanýcýsýna -200,000000 bakiye yüklendi.
+[26.4.2020 15:47:5] - norm üye bakiyesi 500,000000 yetersiz olduðundan monitor ürünü 2499,999999 * 1 satýn alýmý baþarýsýz.
+[26.4.2020 15:47:28] - 4812 7648 3662 2622 - Kart numarasý doðru girildi.
+[26.4.2020 15:47:28] - norm kullanýcýsýna 2000,000000 bakiye yüklendi.
+[26.4.2020 15:47:43] - monitor ürünü 1 adet 2499,999999 TL'ye satýn alýndý.
+[26.4.2020 15:47:44] - norm Normal kullanýcý çýkýþ yaptý.
+[26.4.2020 16:34:33] - batus45 kullanýcý adý ile üye olundu.
+[26.4.2020 16:34:45] - hknclb kullanýcý adý zaten kullanýlýyor.
+[26.4.2020 16:35:13] - yavuzki kullanýcý adý ile üye olundu.
+[26.4.2020 16:38:25] - apo42 kullanýcý adý zaten kullanýlýyor.
+[26.4.2020 16:38:34] - name: hknclb, password: 123 ile yanlýþ kullanýcý giriþ denemesi yapýldý.
+[26.4.2020 16:38:35] - üye giriþi yapýlmadý.
+[26.4.2020 16:38:57] - rasta kullanýcý adý ile üye olundu.
+[26.4.2020 16:39:15] - rasta Normal kullanýcý giriþ yaptý.
+[26.4.2020 16:39:45] - 4824 3648 9692 1012 - Kart numarasý doðru girildi.
+[26.4.2020 16:39:45] - rasta kullanýcýsýna 20000,000000 bakiye yüklendi.
+[26.4.2020 16:40:17] - monitor ürünü 5 adet 12499,999995 TL'ye satýn alýndý.
+[26.4.2020 16:40:20] - tez ürünü bulunamadý.
+[26.4.2020 16:40:37] - klavye ürünü 5 adet 999,999995 TL'ye satýn alýndý.
+[26.4.2020 16:40:39] - rasta Normal kullanýcý çýkýþ yaptý.
+[27.4.2020 0:30:40] - rasta kullanýcý adý için þifre sýfýrlama talebi alýndý.
+[27.4.2020 0:30:43] - rasta kullanýcý adý için þifre n özel kod doðru deðil kayýtlý deðil.
+[27.4.2020 0:30:43] - Þifre sýfýrlanmadý.
+[27.4.2020 0:30:48] - as kullanýcý adý için þifre sýfýrlama talebi alýndý.
+[27.4.2020 0:30:48] - as kullanýcý adý kayýtlý deðil.
+[27.4.2020 0:30:48] - Þifre sýfýrlanmadý.
+[27.4.2020 0:31:6] - vazgec kullanýcý adý ile üye olundu.
+[27.4.2020 0:31:13] - rasta kullanýcý adý için þifre sýfýrlama talebi alýndý.
+[27.4.2020 0:31:21] - rasta kullanýcý adý için þifre 789456 olarak deðiþtirildi.
+[27.4.2020 0:31:21] - Þifre sýfýrlandý.
+[27.4.2020 0:31:32] - vazgec kullanýcý adý için þifre sýfýrlama talebi alýndý.
+[27.4.2020 0:31:41] - vazgec kullanýcý adý için þifre 474799 olarak deðiþtirildi.
+[27.4.2020 0:31:41] - Þifre sýfýrlandý.
+[27.4.2020 0:34:27] - rasta kullanýcý adý için þifre sýfýrlama talebi alýndý.
+[27.4.2020 0:34:33] - rasta kullanýcý adý için þifre 474799 olarak deðiþtirildi.
+[27.4.2020 0:34:33] - Þifre sýfýrlandý.
+[27.4.2020 0:36:19] - name: sdg, password: dsf ile yanlýþ kullanýcý giriþ denemesi yapýldý.
+[27.4.2020 0:36:20] - üye giriþi yapýlmadý.
+[27.4.2020 0:36:25] - rasta kullanýcý adý için þifre sýfýrlama talebi alýndý.
+[27.4.2020 0:36:31] - rasta kullanýcý adý için þifre 474799, 123567 olarak deðiþtirildi.
+[27.4.2020 0:36:31] - Þifre sýfýrlandý.
+[27.4.2020 0:36:37] - batus45 kullanýcý adý için þifre sýfýrlama talebi alýndý.
+[27.4.2020 0:36:45] - batus45 kullanýcý adý için þifre 474799, 123789 olarak deðiþtirildi.
+[27.4.2020 0:36:45] - Þifre sýfýrlandý.
+[27.4.2020 0:40:0] - apo42 kullanýcý adý için þifre sýfýrlama talebi alýndý.
+[27.4.2020 0:40:9] - apo42 kullanýcý adý için þifre 978645 olarak deðiþtirildi.
+[27.4.2020 0:40:9] - Þifre sýfýrlandý.
+[27.4.2020 0:46:45] - norm Normal kullanýcý giriþ yaptý.
+[27.4.2020 0:47:6] - norm üye bakiyesi 0,000001 yetersiz olduðundan klavye ürünü 199,999999 * 2 satýn alýmý baþarýsýz.
+[27.4.2020 0:47:18] - norm üye bakiyesi 0,000001 yetersiz olduðundan portakal ürünü 3,690000 * 8 satýn alýmý baþarýsýz.
+[27.4.2020 0:47:49] - 4800 0 0 2 - Kart numarasý doðru girildi.
+[27.4.2020 0:47:49] - norm kullanýcýsýna 10000,000000 bakiye yüklendi.
+[27.4.2020 0:47:58] - klavye ürünü 2 adet 399,999998 TL'ye satýn alýndý.
+[27.4.2020 0:48:10] - asd ürünü bulunamadý.
+[27.4.2020 0:48:12] - norm Normal kullanýcý çýkýþ yaptý.
+[27.4.2020 0:48:29] - hknclb Admin kullanýcý giriþ yaptý.
+[27.4.2020 0:48:36] - hknclb Admin kullanýcý çýkýþ yaptý.
+[27.4.2020 0:48:41] - sa kullanýcý adý için þifre sýfýrlama talebi alýndý.
+[27.4.2020 0:48:41] - sa kullanýcý adý kayýtlý deðil.
+[27.4.2020 0:48:41] - Þifre sýfýrlanmadý.
+[27.4.2020 0:48:46] - apo42 kullanýcý adý için þifre sýfýrlama talebi alýndý.
+[27.4.2020 0:48:49] - apo42 kullanýcý adý için mus özel kod doðru deðil kayýtlý deðil.
+[27.4.2020 0:48:49] - Þifre sýfýrlanmadý.
+[27.4.2020 0:48:54] - apo42 kullanýcý adý için þifre sýfýrlama talebi alýndý.
+[27.4.2020 0:49:4] - apo42 kullanýcý adý için þifre 147899 olarak deðiþtirildi.
+[27.4.2020 0:49:4] - Þifre sýfýrlandý.
